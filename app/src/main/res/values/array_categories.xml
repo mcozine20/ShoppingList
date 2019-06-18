@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_categories">
+        <item>@string/select_category</item>
+        <item>@string/food</item>
+        <item>@string/drink</item>
+        <item>@string/household_goods</item>
+        <item>@string/clothes</item>
+        <item>@string/other</item>
+    </string-array>
+</resources>

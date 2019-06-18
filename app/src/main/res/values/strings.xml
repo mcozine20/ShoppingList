@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="app_title">My Shopping List</string>
+    <string name="app_short_name">Shopping</string>
+    <string name="tutorial_primary">New Item</string>
+    <string name="tutorial_secondary">Click here to add a new item</string>
+    <string name="delete_all">Delete All</string>
+    <string name="new_item">New Item</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="name">name</string>
+    <string name="icon_description">An icon that represents the category of the item</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_description">Item Description</string>
+    <string name="item_price">Item Price</string>
+    <string name="select_category">Select Category</string>
+    <string name="food">Food</string>
+    <string name="drink">Drink</string>
+    <string name="household_goods">Household Goods</string>
+    <string name="clothes">Clothes</string>
+    <string name="other">Other</string>
+    <string name="dialog_runtime_exception">The activity does not implement the ItemHandler Interface</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="ok">OK</string>
+    <string name="field_empty_error">This field cannot be empty</string>
+    <string name="total_cost_is">The total cost of the list is: </string>
+</resources>
